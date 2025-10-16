@@ -1,4 +1,0 @@
-CREATE TABLE country (
-    id SMALLINT PRIMARY KEY,
-    name TEXT NOT NULL
-);
